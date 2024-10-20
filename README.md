@@ -7,7 +7,7 @@
 /_/                                  
 ```
 
-Submodule for [pinNSE](https://github.com/s9latimm/pinnse).
+Submodule of [pinNSE](https://github.com/s9latimm/pinnse)
 
 ## System
 
