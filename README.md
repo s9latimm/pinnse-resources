@@ -11,16 +11,16 @@ Submodule of [pinNSE](https://github.com/s9latimm/pinnse)
 
 ## System
 
-|              | OpenFOAM             | pinNSE                  |
-|-------------:|:---------------------|:------------------------|
-|           OS | Microsoft Windows 11 | Microsoft Windows 10    |
-|          CPU | TODO                 | AMD Ryzen 9 5950X       |
-|      Threads | TODO                 | 32                      |
-|          RAM | TODO                 | 64 GB                   |
-|          GPU | -                    | NVIDIA GeForce RTX 3080 |
-|         CUDA | -                    | 12.6                    |
-| Tensor Cores | -                    | 272                     |
-|       MEMORY | -                    | 10 GB                   |
+|              | OpenFOAM              | pinNSE                  |
+|-------------:|:----------------------|:------------------------|
+|           OS | Microsoft Windows 11  | Microsoft Windows 10    |
+|          CPU | Intel Core i7-1065G7  | AMD Ryzen 9 5950X       |
+|      Threads | 8                     | 32                      |
+|          RAM | 8 GB                  | 64 GB                   |
+|          GPU | Intel(R) Iris(R) Plus | NVIDIA GeForce RTX 3080 |
+|         CUDA | -                     | 12.6                    |
+| Tensor Cores | -                     | 272                     |
+|       MEMORY | -                     | 10 GB                   |
 
 
 ## Parameter Series
